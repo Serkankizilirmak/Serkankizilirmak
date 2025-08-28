@@ -55,8 +55,8 @@ const resumeData = {
     },
     about: {
         introduction: [
-            "Data Scientist with 3+ years of experience specializing in Monitoring & Evaluation within the humanitarian sector. Proven ability to research, design, and implement innovative M&E frameworks integrating ML, statistical models, and causal inference to assess programmme impact and improve targeting accuracy.",
-            "With a dedicated focus on AI Safety and Explainable AI (XAI), committed to building transparent and ethical solutions. A persistent and creative problem-solver, passionate about delivering impactful, end-to-end ML workflows—from data storytelling and model deployment to ensuring robust and interpretable outcomes."
+            "Data Scientist with 3 years of experience specializing in Monitoring & Evaluation within the humanitarian sector. Proven ability to research, design, and implement innovative M&E frameworks integrating ML, statistical models, and causal inference to assess the impact of the program and improve the precision of the targeting.",
+            "With a dedicated focus on AI Safety and Explainable AI (XAI), committed to building transparent and ethical solutions. A persistent and creative problem solver, passionate about delivering end-to-end impactful ML workflows, from data storytelling and model deployment to ensuring robust and interpretable outcomes."
         ],
         quickFacts: [
             {
@@ -129,41 +129,42 @@ const resumeData = {
             duration: "2023/05 - present",
             location: "Ankara, TR",
             description: [
-                "Applied advanced Monitoring & Evaluation (M&E) methodologies (logframes, indicator tracking) within the world's largest cash assistance program, ensuring alignment with humanitarian standards.",
-                "Designed and implemented monitoring frameworks integrating econometric, statistical, and Machine Learning models to enhance program outcome tracking and evidence-based decision-making.",
-                "Engineered real-time data pipelines and developed interactive dashboards for real-time program monitoring and automated data quality assurance.",
-                "Improved resource allocation accuracy by developing classification models for vulnerable household profiling, refining targeting criteria.",
-                "Collaborated closely with program managers, field teams, and IT to understand needs, ensure data integrity, and translate complex data insights into actionable recommendations via compelling data storytelling for diverse stakeholders."
+                "Improved program effectiveness by applying Monitoring & Evaluation frameworks, which ensured alignment with humanitarian standards in the world’s largest cash assistance program.",
+                "Accelerated evidence-based decision making by designing and implementing monitoring frameworks that integrate econometric, statistical, and machine learning models for better program outcome tracking.",
+                "Ensured data integrity and provided real-time insights by engineering and deploying automated data pipelines and interactive dashboards.",
+                "Significantly increased the accuracy of resource allocation by developing classification models to precisely identify and profile the most vulnerable households.",
+                "Collaborated closely with program managers, field teams, and IT to understand needs, ensure data integrity, and translate complex data insights into actionable recommendations via compelling data storytelling for diverse stakeholders.",
+                "Initiated a research project to develop a FT-Transformer model combined with a GAN architecture. The goal is to forecast future household responses (at t+1 ) by training on a mix of historical internal and national data. The trained model and outcome will be made open-source, while the dataset will remain private for confidentiality reasons."
             ]
         },
         {
-            role: "Entrepreneur",
+            role: "Co-Founder",
             company: "E-commerce Initiative",
             duration: "2022/08 - 2023/05",
             location: "Ankara, TR",
             description: [
-                "Co-founded and managed an e-commerce venture, leveraging data analysis to optimize operations and marketing, achieving a 10-15% profit margin."
+                "Co-Founded and managed an e-commerce venture, leveraging data analysis to optimize operations and marketing, achieving a 10-15% profit margin."
             ]
         }
     ],
     internships: [
         {
-            role: "Trainee - Project Funding and Corporate Loans",
+            role: "Intern - Project Funding and Corporate Loans",
             company: "Türkiye Kalkınma ve Yatırım Bankası",
             duration: "2021/08 - 2022/04",
             location: "İstanbul, TR",
             description: [
-                "Assisted in analyzing companies, obtaining investment details/financial statements, and communicating findings.",
-                "Gained insight into investment processes and sustainability policies within a framework aligned with international institutions and some of the largest companies in Türkiye."
+                "Contributed to investment decisions by assisting in the analysis of companies and compiling investment details and financial statements.",
+                "Gained practical knowledge of investment processes and sustainability policies within a framework aligned with international institutions and some of the largest companies in T ̈urkiye."
             ]
         },
         {
-            role: "Trainee - Finance",
+            role: "Intern - Finance",
             company: "AFS Boru San. A.Ş.",
             duration: "2021/06 - 2021/08",
             location: "Ankara, TR",
             description: [
-                "Supported financial operations including cash management, banking activities, and import/export processes.",
+                "Contributed directly to daily financial operations, including cash management and import/export activities, ensuring smooth workflows.",
                 "Enhanced financial reporting through meticulous handling of cash flow, tax returns, and account reconciliations."
             ]
         }
