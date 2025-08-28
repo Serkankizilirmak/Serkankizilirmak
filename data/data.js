@@ -11,7 +11,7 @@ const resumeData = {
                 icon: "fas fa-envelope",
                 title: "Email Me",
                 description: "Reach me for business inquiries",
-                link: "mailto:serkankizilirmaac@gmail.com",
+                link: "mailto:serkankizilirmaak@gmail.com",
                 linkText: "serkankizilirmaak@gmail.com"
             },
             {
@@ -55,7 +55,7 @@ const resumeData = {
     },
     about: {
         introduction: [
-            "Data Scientist with 3+ years of experience specializing in Monitoring & Evaluation within the humanitarian sector. Proven ability to research, design, and implement innovative M&E frameworks integrating ML, statistical models, and causal inference to assess program impact and improve targeting accuracy.",
+            "Data Scientist with 3+ years of experience specializing in Monitoring & Evaluation within the humanitarian sector. Proven ability to research, design, and implement innovative M&E frameworks integrating ML, statistical models, and causal inference to assess programmme impact and improve targeting accuracy.",
             "With a dedicated focus on AI Safety and Explainable AI (XAI), committed to building transparent and ethical solutions. A persistent and creative problem-solver, passionate about delivering impactful, end-to-end ML workflows—from data storytelling and model deployment to ensuring robust and interpretable outcomes."
         ],
         quickFacts: [
@@ -142,26 +142,26 @@ const resumeData = {
             duration: "2022/08 - 2023/05",
             location: "Ankara, TR",
             description: [
-                "Founded and managed an e-commerce venture, leveraging data analysis to optimize operations and marketing, achieving a 10-15% profit margin."
+                "Co-founded and managed an e-commerce venture, leveraging data analysis to optimize operations and marketing, achieving a 10-15% profit margin."
             ]
         }
     ],
     internships: [
         {
-            role: "Project Funding and Corporate Loans",
+            role: "Trainee - Project Funding and Corporate Loans",
             company: "Türkiye Kalkınma ve Yatırım Bankası",
             duration: "2021/08 - 2022/04",
-            location: "İstanbul",
+            location: "İstanbul, TR",
             description: [
                 "Assisted in analyzing companies, obtaining investment details/financial statements, and communicating findings.",
                 "Gained insight into investment processes and sustainability policies within a framework aligned with international institutions and some of the largest companies in Türkiye."
             ]
         },
         {
-            role: "Finance",
+            role: "Trainee - Finance",
             company: "AFS Boru San. A.Ş.",
             duration: "2021/06 - 2021/08",
-            location: "Ankara",
+            location: "Ankara, TR",
             description: [
                 "Supported financial operations including cash management, banking activities, and import/export processes.",
                 "Enhanced financial reporting through meticulous handling of cash flow, tax returns, and account reconciliations."
@@ -171,7 +171,7 @@ const resumeData = {
     projects: [
         {
             name: "E-commerce Analytics Dashboard (Trendyol API)",
-            date: "2025/01",
+            date: "2023/01",
             description: [
                 "Developed a dashboard integrating the Trendyol Seller API to automate sales, commission, and expense analysis.",
                 "Enabled detailed P&L insights and data-driven pricing optimization via automated cost breakdowns."
@@ -295,9 +295,9 @@ const resumeData = {
             name: "GIS & Spatial Analysis", 
             type: 'levelled',
             skills: [
-                { name: "GeoPandas", proficiency: "Intermediate" },
-                { name: "OpenStreetMap APIs", proficiency: "Intermediate" },
-                { name: "QGIS", proficiency: "Intermediate" },
+                { name: "GeoPandas", proficiency: "Advanced" },
+                { name: "OpenStreetMap APIs", proficiency: "Advanced" },
+                { name: "QGIS", proficiency: "Advanced" },
                 { name: "Spatial Statistics", proficiency: "Intermediate" }
             ] 
         },
