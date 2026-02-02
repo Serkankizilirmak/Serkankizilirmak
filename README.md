@@ -10,7 +10,7 @@ workflows, from data storytelling and model deployment to ensuring robust and in
 
 ## Links
 
-- **Website:** https://serkankizilirmak.com/
-- **Blog:** https://medium.com/@serkankizilirmak
-- **LinkedIn:** [linkedin.com/in/serkankizilirmak]
+- **Website:** [serkankizilirmak.com](https://serkankizilirmak.com/)
+- **Blog:** [Medium](https://medium.com/@serkankizilirmak)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/serkankizilirmak/)
 
