@@ -1,6 +1,6 @@
 # Hi, I'm Serkan 👋
 
-I'm a a **Senior Data Scientist** with 3 years of experience specializing in Monitoring & Evaluation within the humanitarian
+I'm a **Senior Data Scientist** with 3 years of experience specializing in Monitoring & Evaluation within the humanitarian
 sector. 
 
 Proven ability to research, design, and implement innovative M&E frameworks integrating Machine
