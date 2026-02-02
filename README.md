@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Serkan 👋
 
-<!--
-**Serkankizilirmak/Serkankizilirmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a a **Senior Data Scientist** with 3 years of experience specializing in Monitoring & Evaluation within the humanitarian
+sector. 
 
-Here are some ideas to get you started:
+Proven ability to research, design, and implement innovative M&E frameworks integrating Machine
+Learning, statistical models, and causal inference to assess the impact of the program and improve the precision
+of the targeting. A persistent and creative problem solver, passionate about delivering end-to-end impactful ML
+workflows, from data storytelling and model deployment to ensuring robust and interpretable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+- **Website:** https://serkankizilirmak.com/
+- **Blog:** https://medium.com/@serkankizilirmak
+- **LinkedIn:** [linkedin.com/in/serkankizilirmak]
+
